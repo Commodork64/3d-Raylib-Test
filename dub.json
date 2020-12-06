@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"calin"
+	],
+	"copyright": "Copyright © 2020, calin",
+	"dependencies": {
+		"raylib-d": "~>3.0.3"
+	},
+	"libs": [
+		"raylib"
+	],
+	"description": "A test of 3D in Raylib",
+	"license": "proprietary",
+	"name": "3d-test"
+}
